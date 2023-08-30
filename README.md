@@ -1,8 +1,10 @@
-
-<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Gabriela%20Souza&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50](https://capsule-render.vercel.app/api?type=waving&color=600:F7941E,0:004E8F&height=210&section=header&text=Adriano%20Rodrigues&fontSize=30&fontColor=000&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50)">
+<h1>Oi, seja bem vindo 👋</h1>
+<h2>🔭 Atualmente estou trabalhando com HTML, CSS e JavaScript</h2>
+<h2>🌱 Estou aprendendo Phython</h2>
+<h2>👯 Procuro colaborar com os projetos mais interesantes</h2>
 <!--
 **adrianorodriguesbr/adrianorodriguesbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Oi, seja bem vindo 👋
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
