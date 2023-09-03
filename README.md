@@ -1,7 +1,7 @@
 <h1>Hi There! Seja bem vindo ao meu Perfil 👋</h1>
 <h3>🔭 Em transição de carreira DEV</h3>
-<h2>🌱 Estudando HTML, CSS, JavaScript e Phython</h2>
-<h2>👯 Procuro colaborar com os projetos mais interesantes</h2>
+<h3>🌱 Estudando HTML, CSS, JavaScript e Phython</h3>
+<h3>👯 Procuro colaborar com os projetos mais interesantes</h3>
 <!--
 **adrianorodriguesbr/adrianorodriguesbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
