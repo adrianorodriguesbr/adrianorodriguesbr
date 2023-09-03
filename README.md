@@ -1,4 +1,4 @@
-<h1>Oi, seja bem vindo 👋</h1>
+<h1>Hi There! Seja bem vindo ao meu Perfil 👋</h1>
 <h2>🔭 Em transição de carreira DEV</h2>
 <h2>🌱 Estudando HTML, CSS, JavaScript e Phython</h2>
 <h2>👯 Procuro colaborar com os projetos mais interesantes</h2>
