@@ -2,7 +2,6 @@
 <h3>🔭 Em transição de carreira DEV</h3>
 <h3>🌱 Estudando HTML, CSS, JavaScript e Phython</h3>
 <h3>👯 Procuro colaborar com os projetos mais interesantes</h3>
-<h3>⚡ Aluno do projeto Proz - Portal Tech Front-End</h3>
 <h3> 📫 Como chegar até mim: adrianorodriguesbr@hotmail.com</h3>
 
 <!--
